@@ -1,8 +1,8 @@
-## BasicProject
+## interface-project
 
-### March 25, 2016
+### March 31, 2016
 
-My third version controlled project
+My version controlled project
 
 * git 
 * Java 7
