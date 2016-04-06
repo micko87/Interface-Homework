@@ -1,8 +1,6 @@
-## interface-project
+## Interface-Homework
 
-### March 31, 2016
-
-My version controlled project
+### April 5th, 2016
 
 * git 
 * Java 7
